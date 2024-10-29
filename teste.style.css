@@ -1,0 +1,99 @@
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Divulgação do Servidor Discord</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWsNypLyqWrBPA6aWMseP51NSaRBKDc3l2stN4e1lp_j39RxySOf6HOl0&s=10');
+            background-size: cover; /* Ajusta a imagem para cobrir o fundo inteiro */
+            background-repeat: no-repeat; /* Evita a repetição da imagem */
+            background-position: center; /* Centraliza a imagem no plano de fundo */
+            color: #ffffff;
+            text-align: center;
+        }
+
+        .container {
+            padding: 50px;
+            background-color: rgba(35, 39, 42, 0.8); /* Fundo semi-transparente para destacar o texto */
+            border-radius: 10px;
+            max-width: 600px;
+            margin: auto;
+            margin-top: 50px;
+        }
+
+        .logo {
+            max-width: 150px;
+        }
+
+        .description {
+            margin: 30px 0;
+            font-size: 18px;
+        }
+
+        .invite-button {
+            padding: 15px 30px;
+            font-size: 18px;
+            color: #ffffff;
+            background-color: #7289da;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            text-decoration: none;
+        }
+
+        .invite-button:hover {
+            background-color: #677bc4;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="logo.png" alt="Logotipo do Servidor" class="logo">
+        <h1>Bem-vindo ao nosso Servidor Discord!</h1>
+        <p class="description">
+            Junte-se ao nosso servidor para ter acesso aos scripts 🙃 e para conversar com os nossos membros {mais de 70k}
+        </p>
+      <h1>Oque nos oferecemos?</h1>
+      <h2> Scripts!</h2>
+
+    <p> Scripts de Hack</p>
+
+
+
+        
+
+        <iframe width="200" height="100" src="https://www.youtube.com/embed/7tZJ3qiLFBc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+        
+        
+        <iframe width="100" height="200" src="https://youtu.be/-TXGbjiX0Do?si=kjdNmy_-AlXfFwSG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+        
+
+
+
+
+        
+        
+<h3>Além também, de proporcionar um ambiente agradavel para todos no servidor graças a nossa equipe de sttafs e moderadores e quaro os suportes também, que estão ali para li ajudar com oque você necessitar</h3>
+
+
+
+
+
+       
+        <a href="https://discord.gg/platformdestroyer" class="invite-button"> acessar!</a>
+    </div>
+</body>
+</html>
+```
